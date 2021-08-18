@@ -1,2 +1,2 @@
 # hello-world
-Just for 1st pepository
+Just for 1st repository
